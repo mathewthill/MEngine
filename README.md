@@ -26,4 +26,5 @@ A simple implementation of OpenGL for one of my first year assignments. Some of 
 
 ## Demonstration
 Click below to watch the video demonstration:
+
 [![Video Demonstration](https://img.youtube.com/vi/l89drPJbJIk/0.jpg)](https://www.youtube.com/watch?v=l89drPJbJIk)
